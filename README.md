@@ -15,9 +15,6 @@ the color of the eyes.
 
 ## Results
 
-![1](./images/1.jpg)
+![1](./images/2.jpg)
 
-![2](./images/2.jpg)
-
-![3](./images/blinking.jpg)
-
+![2](./images/blinking.jpg)
